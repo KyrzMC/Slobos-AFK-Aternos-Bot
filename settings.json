@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "IronClash.aternos.me",
+    "ip": "IronClash.aternos.me:21036",
     "port": 21036,
     "version": "",
     "try-creative": false
