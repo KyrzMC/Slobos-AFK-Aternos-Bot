@@ -78,10 +78,10 @@
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
-    "respond": false
+    "respond": true
   }
 }
